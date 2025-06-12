@@ -19,7 +19,7 @@ Este projeto foi desenvolvido para monitorar, analisar e identificar padrões de
 
 ## 📁 Arquivos
 
-- `Dashboard_MEDs_Antifraude.pbix` – versão editável
+- `dashantifraude.pbix` – versão editável
 - `Relatório_MEDs_Antifraude.pdf` – versão estática
 - `Capa.png` – imagem da primeira página
 
